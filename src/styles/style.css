@@ -57,6 +57,11 @@ body{
     padding-right: 8px;
 }
 
+.section-playlist .section-playlist__button:hover{
+    background-color: #a9a9a9;
+    cursor: pointer;
+}
+
 .library .library__content .fa-plus{
     margin: 24px 10px;
 }
